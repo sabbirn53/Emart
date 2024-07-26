@@ -1,0 +1,49 @@
+.review {
+    width: 100%;
+    max-width: 1200px;
+    height: max-content;
+    margin: auto;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .review .title {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .review .title h1 {
+    font-size: 2rem;
+    color: #1c364f;
+  }
+  
+  .carousel {
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 50px;
+  }
+  
+  @media (max-width: 768px) {
+    .review .title h1 {
+      font-size: 1.5rem;
+    }
+  
+    .carousel {
+      padding: 10px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .review .title h1 {
+      font-size: 1.2rem;
+    }
+  
+    .carousel {
+      padding: 5px;
+    }
+  }
+  
