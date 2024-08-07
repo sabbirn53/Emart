@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/emart/static/css/main.f4b8b3ff.css",
+    "main.js": "/emart/static/js/main.e1d44872.js",
+    "static/js/453.2a77a906.chunk.js": "/emart/static/js/453.2a77a906.chunk.js",
+    "static/media/bancam.jpg": "/emart/static/media/bancam.f387225c3310901a180f.jpg",
+    "static/media/acban.jpg": "/emart/static/media/acban.1b65cbd04965ffe62c79.jpg",
+    "static/media/mbl.jpg": "/emart/static/media/mbl.760d5affd470d5fd2435.jpg",
+    "static/media/camera.jpg": "/emart/static/media/camera.eeedc6a575ee3c1d8f36.jpg",
+    "static/media/tvban1.jpg": "/emart/static/media/tvban1.d32edfbd911349d1ea3d.jpg",
+    "static/media/user-2.png": "/emart/static/media/user-2.b22c59baa927c1be0d2e.png",
+    "static/media/user-3.png": "/emart/static/media/user-3.12915e16ed909bbd9b48.png",
+    "static/media/ac.jpg": "/emart/static/media/ac.9f5d14c6d0a7defcd9d0.jpg",
+    "static/media/user-4.png": "/emart/static/media/user-4.50ce69a0306667eba2c1.png",
+    "static/media/tv.jpg": "/emart/static/media/tv.714b15b1dff07c3ada6e.jpg",
+    "static/media/user-1.png": "/emart/static/media/user-1.1f46bb883fe387830efd.png",
+    "static/media/logo.png": "/emart/static/media/logo.c6848b0d53208be31b51.png",
+    "index.html": "/emart/index.html",
+    "main.f4b8b3ff.css.map": "/emart/static/css/main.f4b8b3ff.css.map",
+    "main.e1d44872.js.map": "/emart/static/js/main.e1d44872.js.map",
+    "453.2a77a906.chunk.js.map": "/emart/static/js/453.2a77a906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4b8b3ff.css",
+    "static/js/main.e1d44872.js"
+  ]
+}
